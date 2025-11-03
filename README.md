@@ -146,17 +146,17 @@ print("🎯 Mission: Securing systems one vulnerability at a time.")
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cypher0x00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=cypher0x00&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=FFFFFF&dates=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed4Shawky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Ahmed4Shawky&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=FFFFFF&dates=FFFFFF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher0x00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher0x00&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4Shawky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed4Shawky&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cypher0x00&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed4Shawky&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -165,12 +165,12 @@ print("🎯 Mission: Securing systems one vulnerability at a time.")
 
 <div align="center">
 
-<a href="https://github.com/cypher0x00/keylogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cypher0x00&repo=keylogger&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" />
+<a href="https://github.com/Ahmed4Shawky/keylogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=keylogger&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" />
 </a>
 
-<a href="https://github.com/cypher0x00/RSA_DECRYPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cypher0x00&repo=RSA_DECRYPT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" />
+<a href="https://github.com/Ahmed4Shawky/RSA_DECRYPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=RSA_DECRYPT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" />
 </a>
 
 </div>
@@ -359,22 +359,6 @@ Focus Areas:
 
 ## 💡 Core Competencies
 
-<div align="center">
-
-### 🔴 Penetration Testing Methodology
-
-```mermaid
-graph LR
-    A[Reconnaissance] --> B[Scanning & Enumeration]
-    B --> C[Vulnerability Analysis]
-    C --> D[Exploitation]
-    D --> E[Post-Exploitation]
-    E --> F[Reporting]
-    F --> G[Remediation Support]
-```
-
-</div>
-
 <table>
 <tr>
 <td width="33%">
@@ -560,7 +544,7 @@ for fact, description in fun_facts.items():
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cypher0x00&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed4Shawky&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true" width="100%" />
 
 </div>
 
@@ -570,9 +554,9 @@ for fact, description in fun_facts.items():
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cypher0x00&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/cypher0x00?style=for-the-badge&color=00FF00&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/cypher0x00?style=for-the-badge&color=00FF00&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed4Shawky&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Ahmed4Shawky?style=for-the-badge&color=00FF00&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/Ahmed4Shawky?style=for-the-badge&color=00FF00&label=TOTAL+STARS)
 
 </div>
 
@@ -613,7 +597,7 @@ If you find my projects useful or want to support my cybersecurity journey:
 
 ### ⭐ Star My Repositories
 
-<a href="https://github.com/cypher0x00?tab=repositories">
+<a href="https://github.com/Ahmed4Shawky?tab=repositories">
   <img src="https://img.shields.io/badge/View_My_Repositories-00FF00?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
