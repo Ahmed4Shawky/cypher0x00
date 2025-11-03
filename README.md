@@ -187,56 +187,65 @@ contact:
 
 <div align="center">
 
-### 🔥 Project Showcase
-
 <table>
 <tr>
-<td width="50%">
-
-#### 🎯 KeystrokeGuard (Keylogger)
-**Real-time keystroke monitoring system**
-
-**Features:**
-- 🔹 Stealth Operation Mode
-- 🔹 Real-time Logging
-- 🔹 Telegram Integration
-- 🔹 Windows API Implementation
-
-**Stack:** Python, Windows API, Telegram Bot API
-
-**Use Case:** Authorized red-team simulations & security research
-
-**Status:** ✅ Production Ready
-
-📂 [View Repository](https://github.com/Ahmed4Shawky/keylogger)
-
+<td width="50%" valign="top">
+<a href="https://github.com/Ahmed4Shawky/keylogger">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=keylogger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="KeystrokeGuard"/>
+</a>
 </td>
-<td width="50%">
-
-#### 🔐 RSA_DECRYPT
-**Cryptographic analysis toolkit**
-
-**Features:**
-- 🔹 RSA Decryption Engine
-- 🔹 Key Analysis Tools
-- 🔹 Cryptographic Utilities
-- 🔹 Educational Framework
-
-**Stack:** Python, Cryptography Libraries
-
-**Use Case:** Educational cryptographic analysis
-
-**Status:** ✅ Production Ready
-
-📂 [View Repository](https://github.com/Ahmed4Shawky/RSA_DECRYPT)
-
+<td width="50%" valign="top">
+<a href="https://github.com/Ahmed4Shawky/RSA_DECRYPT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=RSA_DECRYPT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="RSA_DECRYPT"/>
+</a>
 </td>
 </tr>
 </table>
 
 </div>
 
-### 🚧 Upcoming Projects
+### 🔥 Project Details
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎯 KeystrokeGuard (Keylogger)
+**Real-time keystroke monitoring system**
+
+**Features:**
+- 🔹 Stealth Operation Mode
+- 🔹 Real-time Logging & Monitoring
+- 🔹 Telegram Bot Integration
+- 🔹 Windows API Implementation
+
+**Tech Stack:** `Python` `Windows API` `Telegram Bot API`
+
+**Use Case:** Authorized red-team simulations & security research
+
+**Status:** ✅ Production Ready
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔐 RSA_DECRYPT
+**Cryptographic analysis toolkit**
+
+**Features:**
+- 🔹 RSA Decryption Engine
+- 🔹 Advanced Key Analysis
+- 🔹 Cryptographic Utilities
+- 🔹 Educational Framework
+
+**Tech Stack:** `Python` `Cryptography Libraries` `Mathematical Analysis`
+
+**Use Case:** Educational cryptographic analysis & research
+
+**Status:** ✅ Production Ready
+
+</td>
+</tr>
+</table>
 
 ```text
 📌 Web Vulnerability Scanner
