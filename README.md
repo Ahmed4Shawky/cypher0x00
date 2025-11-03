@@ -143,21 +143,42 @@ contact:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed4Shawky&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Ahmed4Shawky&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed4Shawky&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.demolab.com?user=Ahmed4Shawky&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4Shawky&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed4Shawky&theme=chartreuse_dark&utcOffset=2" alt="Productive Time" />
+
+### 📈 Contribution Statistics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed4Shawky&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed4Shawky&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed4Shawky&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed4Shawky&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+### 💻 Language Statistics
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4Shawky&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=10&hide=html,css" alt="Top Languages" />
+
 </div>
 
 ---
