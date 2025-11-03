@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔐 Penetration Tester | Web Security Researcher
+# 🔐 Penetration Tester | Web Application Security
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Penetration+Tester;Web+Application+Security;Ethical+Hacker;eWAPT+Certified;Security+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Penetration+Tester;Web+Application+Security;Ethical+Hacker;eWAPT+Certified;OWASP+Top+10+Specialist" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -187,11 +187,6 @@ contact:
 
 <div align="center">
 
-[![KeystrokeGuard](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=keylogger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/Ahmed4Shawky/keylogger)
-[![RSA_DECRYPT](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=RSA_DECRYPT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/Ahmed4Shawky/RSA_DECRYPT)
-
-</div>
-
 ### 🔥 Project Showcase
 
 <table>
@@ -213,6 +208,8 @@ contact:
 
 **Status:** ✅ Production Ready
 
+📂 [View Repository](https://github.com/Ahmed4Shawky/keylogger)
+
 </td>
 <td width="50%">
 
@@ -231,9 +228,13 @@ contact:
 
 **Status:** ✅ Production Ready
 
+📂 [View Repository](https://github.com/Ahmed4Shawky/RSA_DECRYPT)
+
 </td>
 </tr>
 </table>
+
+</div>
 
 ### 🚧 Upcoming Projects
 
